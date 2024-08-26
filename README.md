@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ak015a01)](https://solved.ac/khjj0919/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준닉네임)](https://solved.ac/khjj0919)
+[출처] 깃허브 프로필 꾸미기(백준 티어)|작성자 댕구이
 <!--
 **cocounni/cocounni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
