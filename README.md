@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://github.com/cocounni/cocounni/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+  [! [Typing SVG] (https://readme-typing-sg.demolab.com/Plines-Welcome+to+HyeJung's+Github!;Second+line+of+text)](ht l /</div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
