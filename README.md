@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  [! [Typing SVG] (https://readme-typing-sg.demolab.com/Plines-Welcome+to+HyeJung's+Github!;Second+line+of+text)](ht l /</div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+HyeJung's+Github!;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
