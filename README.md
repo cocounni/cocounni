@@ -41,7 +41,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-<a href="mailto:gpwjd0919@naver.com">
+<a href="mailto:gpwjd0919@gmail.com">
     <img
       src="https://img.shields.io/badge/gpwjd0919@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
